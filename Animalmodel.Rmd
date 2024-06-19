@@ -2,7 +2,7 @@
 title: "BI 3083/8082 - Animal model"
 author: "Debora Goedert"
 date: "11/1/2022"
-output: html_document
+output: github_document
 ---
 **Disclaimers**: 
 
